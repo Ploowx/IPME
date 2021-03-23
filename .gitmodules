@@ -1,0 +1,3 @@
+[submodule "lib/LIB_IPME"]
+	path = lib/LIB_IPME
+	url = git@github.com:Ploowx/LIB_IPME.git
